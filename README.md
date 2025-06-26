@@ -7,6 +7,6 @@
 4. Command # sh ./InsttallWebmin.sh
 5. Let the script do it's magic.
 6. It will reboot at the end. Webmin will be started when your device did reboot.
-7. Visit "https://<IP address>:10000"b in your browser.
+7. Visit "https://<IP address>:10000" in your browser.
 8. Login.
 9. Finised.
