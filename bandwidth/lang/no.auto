@@ -1,9 +1,0 @@
-index_in=nedlasting
-index_out=Laste opp
-index_total=Total
-
-system_firewalld=Brannmur
-
-syslog_journald=Journalført
-
-rotate_failed=.. mislyktes : $1
