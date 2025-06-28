@@ -10,3 +10,9 @@
 7. Visit "https://{IP address}:10000" in your browser.
 8. Login.
 9. Finised.
+
+Buy me a cup of koffee! 🙂👍 <br>
+https://urlshrt.eu/buycupofcoffee
+<br>
+<br>
+<img alt="GitHub all releases" src="https://img.shields.io/github/downloads/wootje/webmin/total">
