@@ -2,7 +2,7 @@
 
 <b>How to::</b>
 1. Open a terminl window or login using SSH.
-2. Command # wget https://raw.githubusercontent.com/wootje/webmin/refs/heads/master/InstallWebmin.sh
+2. Command # wget https://urlshrt.eu/webmininstall
 3. Command # chmod 775 ./InstallWebmin.sh
 4. Command # sh ./InstallWebmin.sh
 5. Let the script do it's magic.
