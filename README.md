@@ -11,7 +11,7 @@
 8. Login.
 9. Finised.
 
-Buy me a cup of koffee! 🙂👍 <br>
+Buy me a cup of coffee! 🙂👍 <br>
 https://urlshrt.eu/buycupofcoffee
 <br>
 <br>
