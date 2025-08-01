@@ -3,8 +3,8 @@
 <b>How to::</b>
 1. Open a terminl window or login using SSH.
 2. Command # wget https://urlshrt.eu/webmininstall
-3. Command # chmod 775 ./InstallWebmin.sh
-4. Command # sh ./InstallWebmin.sh
+3. Command # chmod 775 ./webmininstall
+4. Command # sh ./webmininstall
 5. Let the script do it's magic.
 6. It will reboot at the end. Webmin will be started when your device did reboot.
 7. Visit "https://{IP address}:10000" in your browser.
